@@ -1,6 +1,6 @@
 # One_Month_Wrist_PPG_Dataset
 
-This dataset is described in the paper, One-Month Evaluation of Blood Pressure Estimation Using a Fine-Tuned Model with Wristband-Type Photoplethysmograms, accepted by IEEE Sensors Journal.<br />
+This dataset is described in the paper, <a href="https://ieeexplore.ieee.org/document/10541920" target="_blank">One-Month Evaluation of Blood Pressure Estimation Using a Fine-Tuned Model with Wristband-Type Photoplethysmograms</a>, accepted by IEEE Sensors Journal.<br />
 
 ### \<Overview\>
 - This dataset contains 11 participant data (eight men, age: 31.1 ± 4.3 years; three women, age: 31.0 ± 11.3 years) over four days (one day per week) using a custommized wearable wristband-type PPG device. <br />
